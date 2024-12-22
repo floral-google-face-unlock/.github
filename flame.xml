@@ -4,7 +4,7 @@
 
     <!-- device tree -->
     <project name="device_google_coral" path="device/google/coral" remote="github-pixel4"/>
-    <project name="device_google_flame" path="device/google/flam" remote="github-pixel4"/>
+    <project name="device_google_flame" path="device/google/flame" remote="github-pixel4"/>
     <project name="device_google_gs-common" path="device/google/gs-common" remote="github-pixel4"/>
 
     <!-- kernel -->
